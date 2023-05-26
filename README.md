@@ -1,7 +1,8 @@
 # AlgoritmoABC
 
 El siguiente repositprio incluye los archivos necesarios para ejecutar las diferentes 
-etapas del proyecto 
+etapas del proyecto
+
 "Desarrollo y validación de un algoritmo para la clasificación de 
 patrones de movimiento en las extremidades superiores en señales de electroencefalograma 
 mediante el uso de una red neuronal supervisada"
