@@ -12,7 +12,10 @@ https://drive.google.com/drive/folders/1fs2B0Z40hT1bYfQzl6EoIZevgL7HBxbq?usp=sha
 
 El orden para ejecutarse es el siguiente:
 1. AlgoritmoABC_Python -> LeerOpenBCI.py
-2. AlgoritmoABC_Matlab -> Ejecutar archivos PreprocesadoABC_Perceptron.m y PreprocesadoABC_Conv.m
-3. AlgoritmoABC_Matlab -> Ejecutar archivos AlgoritmoABC_Perceptron.m, AlgoritmoABC_Perceptron_BT.m y AlgoritmoABC_CNN.m
-4. AlgoritmoABC_Matlab -> Ejecutar archivo GUI_Algoritmo_ABC_CNN.m
-5. AlgoritmoABC_Tensorflow -> Ejecutar archivos ABC_Perceptron_Scaled.ipynb y ABC_CNN.ipynb añadiendo previamente los archivos necesarios para el entrenamiento
+2. Previo a ejecutar los codigos de Matlab se debe añadir al Path la carpeta eeglab2022.1 con sus subcarpetas
+3. AlgoritmoABC_Matlab -> Ejecutar archivos PreprocesadoABC_Perceptron.m y PreprocesadoABC_Conv.m
+5. AlgoritmoABC_Matlab -> Ejecutar archivos AlgoritmoABC_Perceptron.m, AlgoritmoABC_Perceptron_BT.m y AlgoritmoABC_CNN.m
+6. AlgoritmoABC_Matlab -> Ejecutar archivo GUI_Algoritmo_ABC_CNN.m
+7. AlgoritmoABC_Tensorflow -> Ejecutar archivos ABC_Perceptron_Scaled.ipynb y ABC_CNN.ipynb añadiendo previamente los archivos necesarios para el entrenamiento
+
+Versión de Matlab: R2020b
