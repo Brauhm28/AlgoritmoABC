@@ -1,4 +1,4 @@
-# AlgoritmoABC
+# AlgoritmoABC_ClasificadorDeIntenciónMotora
 
 El siguiente repositorio incluye los archivos necesarios para ejecutar las diferentes 
 etapas del proyecto
